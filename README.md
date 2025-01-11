@@ -109,14 +109,7 @@ To improve the accuracy:
 
 ---
 
-## Example Output
-```
-Data has been successfully converted to ./data/data.csv
-P(spam): 0.13, P(ham): 0.87
-P('free'|spam): 0.0001
-P('free'|ham): 0.0047
-Accuracy: 98.83%
-```
+
 
 ---
 
